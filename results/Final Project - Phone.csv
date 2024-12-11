@@ -1,0 +1,33 @@
+Instance ID,camera present?,"statistical, non-smoothed camera detected?","statistical, smoothed camera detected?","ML, non-smoothed peaks detected? ","ML, smoothed peaks detcted?"
+o8i2KKqL8MSyW4edkEjXQE,0,0,0,0,0
+bFx3rRLCz3TxRctQc9FRcF,0,0,0,0,0
+RFV7APqQwcmnM7Wt4YtA2n,0,0,1,0,1
+hcBhf6fpeiqyqnyTKpomW5,0,0,0,0,0
+MQ3ptztoDrzXoexiFCbiiF,0,0,0,0,0
+EdVJFEmd8BdjBaAaB5z6HC,0,1,1,1,1
+ekZSPwYuTmx8nfG8v8emfA,0,0,0,0,0
+TTpNa6RPXETz39n2vKdwY2,0,1,1,1,0
+3v2d2NG6dUibUuighcHEED,0,0,0,0,0
+3rVW29hLKekAwkkivNY5G5,0,1,1,1,1
+azzZCv9eL9TAW7P8uv8Y8B,0,0,0,0,0
+n86FQTnAAdvabZ9sv8EfeC,0,0,0,0,0
+kTNR8GgR8CNDx2k95DZUEW,0,0,0,0,0
+BKqorYNxWdWRsCqeP8hJEz,0,0,0,0,0
+F9GedZ7ftk5Ufp3jH9V57U,0,0,0,0,0
+WsxbjuHzM4YuZmigjei4As,0,0,0,0,0
+gKDWcQKcS6kidZB8vXAomb,0,0,0,0,0
+cPYuTyUp45GR9dDGLuQ6dY,0,1,1,1,0
+6D7eDQCi6V8CBAa8hJR8Z8,0,0,0,0,0
+DTTdyktoMZhLXrdkUERs7V,0,0,0,0,0
+DTUEGaUAiQkeizVZoRmJJy,0,0,1,0,0
+3BZ8zzQuUFZQAFkVJ9xNHS,0,0,0,0,1
+dRwAAh4oHTTWxcfbGUzwG6,0,0,0,0,0
+axButPfjRzFUfEYPGe2Tgg,0,1,1,1,0
+RbvfiMKb59HQtfVicrkjfi,0,0,0,0,0
+WLWJyQwjKzHcxutsQG5iQ8,0,0,1,0,1
+68mDghff6C8KzvRJNoMYZm,0,0,0,0,0
+TNGh2jMzJ4J98xrSQMEyub,0,0,0,0,0
+,,,,,
+SUM!,,5,8,5,5
+,True Negative rate,0.8214285714,0.7142857143,0.8214285714,0.8214285714
+,False Postive Rate,0.1785714286,0.2857142857,0.1785714286,0.1785714286

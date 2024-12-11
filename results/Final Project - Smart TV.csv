@@ -1,0 +1,23 @@
+Instance ID,camera present?,"statistical, non-smoothed camera detected?","statistical, smoothed camera detected?","ML, non-smoothed peaks detected? ","ML, smoothed peaks detcted?"
+o8i2KKqL8MSyW4edkEjXQE,0,0,0,0,0
+bFx3rRLCz3TxRctQc9FRcF,0,0,1,1,0
+RFV7APqQwcmnM7Wt4YtA2n,0,0,1,0,0
+hcBhf6fpeiqyqnyTKpomW5,0,0,0,0,0
+MQ3ptztoDrzXoexiFCbiiF,0,0,1,0,1
+EdVJFEmd8BdjBaAaB5z6HC,0,0,0,0,0
+ekZSPwYuTmx8nfG8v8emfA,0,0,1,0,0
+TTpNa6RPXETz39n2vKdwY2,0,0,0,0,0
+3v2d2NG6dUibUuighcHEED,0,0,0,0,0
+3rVW29hLKekAwkkivNY5G5,0,0,0,0,0
+azzZCv9eL9TAW7P8uv8Y8B,0,0,0,0,0
+n86FQTnAAdvabZ9sv8EfeC,0,0,0,0,0
+kTNR8GgR8CNDx2k95DZUEW,0,0,0,0,0
+DTUEGaUAiQkeizVZoRmJJy,0,0,0,0,0
+3BZ8zzQuUFZQAFkVJ9xNHS,0,0,0,0,0
+dRwAAh4oHTTWxcfbGUzwG6,0,0,0,0,0
+axButPfjRzFUfEYPGe2Tgg,0,0,0,0,0
+,,,,,
+,,,,,
+FPR:,,0,4,1,1
+TNR,True NEgative ,1,0.7647058824,0.9411764706,0.9411764706
+,False Positive ,0,0.2352941176,0.05882352941,0.05882352941
